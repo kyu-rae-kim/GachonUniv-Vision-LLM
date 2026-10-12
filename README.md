@@ -59,27 +59,6 @@
 
 <br>
 
-## 제출물
-
-### 과제
-
-1. **\[261010\]:** `01_Linux-and-Python.ipynb` NumPy TODO 3개
-2. -
-3. -
-
-### 프로젝트
-
-1. \[Project01]: 
-2. \[Project02]: 
-3. \[Project03]: 
-
-### GitHub Repository 구조 예시
-
-GitHub Repo 구조가 헷갈리다면 아래 링크를 참고하시길 바랍니다.<br>
-[Repo 구조 예시 링크](https://github.com/kyu-rae-kim/GachonUniv-Vision-LLM-example-structure)
-
-<br>
-
 ## 평가 기준
 
 본 과정은 출석, 실습, 과제 지필고사, 프로젝트의 총 5개 항목을 기준으로 평가합니다. 각 항목의 세부 평가 기준은 다음과 같습니다.
@@ -121,6 +100,27 @@ GitHub Repo 구조가 헷갈리다면 아래 링크를 참고하시길 바랍니
 프로젝트 제출 시에는 `Project01`과 같은 형식으로 프로젝트별 폴더를 생성하고, 해당 폴더 안에 독립적으로 실행 가능한 파일과 필요한 부가 파일을 포함하여 제출해야 합니다. 또한, 과제 제출 기준과 동일한 `README.md` 파일을 작성하여 함께 제출해야 합니다. 최종 프로젝트의 경우, 추가로 발표 자료를 `.pdf` 형식으로 함께 제출합니다.
 
 모든 과제, 프로젝트 및 실습 파일은 본인 계정의 GitHub Repository에 제출해야 합니다. 제출 시각은 해당 파일이 포함된 commit의 기록 시각을 기준으로 합니다. Commit 메시지에는 변경 사항과 작업 내용을 명확하게 설명하는 적절한 내용을 작성해야 합니다. "update", "fix", "test" 등 작업 내용을 구체적으로 파악하기 어려운 모호하거나 무의미한 메시지를 작성할 경우 감점될 수 있습니다.
+
+<br>
+
+## 제출물
+
+### 과제
+
+1. **\[261010\]:** `01_Linux-and-Python.ipynb` NumPy TODO 3개
+2. -
+3. -
+
+### 프로젝트
+
+1. \[Project01]: 
+2. \[Project02]: 
+3. \[Project03]: 
+
+### GitHub Repository 구조 예시
+
+GitHub Repo 구조가 헷갈리다면 아래 링크를 참고하시길 바랍니다.<br>
+[Repo 구조 예시 링크](https://github.com/kyu-rae-kim/GachonUniv-Vision-LLM-example-structure)
 
 <br>
 
