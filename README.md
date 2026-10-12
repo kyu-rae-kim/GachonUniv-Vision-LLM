@@ -107,7 +107,7 @@
 
 ### 과제
 
-1. **\[261010\]:** `01_Linux-and-Python.ipynb` NumPy TODO 3개
+1. **\[261010\]:** `01_Linux-and-Python.ipynb` NumPy 섹션 TODO 3개
 2. -
 3. -
 
