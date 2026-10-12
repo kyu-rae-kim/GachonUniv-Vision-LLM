@@ -113,9 +113,9 @@
 
 ### 프로젝트
 
-1. \[Project01]: 
-2. \[Project02]: 
-3. \[Project03]: 
+1. **\[Project01\]:** 
+2. **\[Project02\]:** 
+3. **\[Project03\]:** 
 
 ### GitHub Repository 구조 예시
 
