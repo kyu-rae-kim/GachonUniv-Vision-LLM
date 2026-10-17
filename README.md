@@ -108,7 +108,7 @@
 ### 과제
 
 1. **\[261010\]:** `01_Linux-and-Python.ipynb` NumPy 섹션 TODO 3개
-2. -
+2. **\[261017\]:** `02_Computer_Vision.ipynb` 모폴로지 연산 적용하여 최종 농구공 Contour 선택 및 출력
 3. -
 
 ### 프로젝트
