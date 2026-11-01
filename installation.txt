@@ -1,0 +1,16 @@
+source .venv/bin/activate
+
+pip install --no-deps onnx==1.16.0
+pip install --no-deps onnxruntime==1.23.2
+pip install --no-deps onnxslim==0.1.95
+pip install --no-deps ml_dtypes==0.5.4
+pip install --no-deps coloredlogs==15.0.1
+pip install --no-deps humanfriendly==10.0
+pip install --no-deps protobuf==3.20.3
+pip install huggingface_hub
+pip install python-dotenv
+pip install "numpy==1.23.0" transformers sentencepiece
+
+export PATH=/usr/local/cuda/bin:$PATH
+CUDACXX=/usr/local/cuda/bin/nvcc CMAKE_ARGS="-DGGML_CUDA=on -DCMAKE_CUDA_COMPILER=/usr/local/cuda/bin/nvcc" \
+pip install --no-cache-dir llama-cpp-python
